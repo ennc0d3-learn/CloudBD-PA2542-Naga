@@ -1,0 +1,81 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+#
+require 'vagrant-aws'
+require 'vagrant-google'
+
+DefaultImage = "ubuntu/xenial64"
+
+Nodes = %w(appserver dbserver)
+
+Vagrant.configure("2") do |config|
+  #
+  Nodes.each do |node|
+
+    nodename = "#{node}"
+    #{{{ Config each node
+    config.vm.define nodename do |node|
+      node.vm.hostname = nodename
+
+      #{{{ Puppet
+      node.vm.provision :shell, path: "install-puppet.sh"
+      node.vm.provision :puppet do |puppet|
+        #puppet.options = "--verbose --debug"
+        puppet.working_directory = '/vagrant'
+        puppet.environment_path="environments"
+        puppet.environment = "test"
+      end
+      #}}}
+
+      #{{{ Virtualbox
+      node.vm.provider :virtualbox do |v, override|
+        override.vm.box = DefaultImage
+      end
+      #}}}
+
+      #{{{ AWS
+      node.vm.provider :aws do |aws, override|
+        # Read AWS authentication information from environment variables
+        # ~/private/awsenv
+        aws.access_key_id = ENV["aws_access_key_id"]
+        aws.secret_access_key = ENV["aws_secret_access_key"]
+
+        # Specify SSH keypair to use
+        aws.keypair_name = "ec2admin"
+
+        # Specify region, AMI ID, and security group(s)
+        aws.ami = "ami-09f0b8b3e41191524"
+        aws.instance_type = "t1.micro"
+        aws.region = "eu-west-1"
+        aws.security_groups = ['default']
+        aws.user_data = "#!/bin/sh\nhostname #{nodename}\necho #{nodename} > /etc/hostname"
+
+        # Specify username and private key path
+        override.vm.box = 'dummy'
+        override.ssh.username = 'ubuntu'
+        override.ssh.private_key_path = '~/.ssh/ec2admin.pem'
+      end
+      #}}}
+
+      #{{{ Gcloud
+      node.vm.provider :google do |google, override|
+        # ~/private/gceenv
+        google.google_project_id = ENV["google_project_id"]
+        google.google_client_email = ENV["google_client_email"]
+        google.google_json_key_location = "~/private/gcloud/key.json"
+
+        google.name = "#{nodename}"
+        google.image_family = 'ubuntu-1604-lts'
+        google.machine_type = 'f1-micro'
+        google.zone = "europe-west1-c"
+
+        override.vm.box = "google/gce"
+        override.ssh.username = "ennmail"
+        override.ssh.private_key_path = "~/.ssh/gcloud-bth-ex"
+      end
+      #}}}
+    end
+    #}}}
+  end
+  #}}}
+end

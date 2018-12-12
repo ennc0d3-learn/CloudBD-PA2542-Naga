@@ -1,0 +1,63 @@
+
+# git-ls-files --others --exclude-from=.git/info/exclude
+# Lines that start with '#' are comments.
+# For a project mostly in C, the following would be a good set of
+# exclude patterns (uncomment them if you want to use them):
+# *.[oa]
+
+# Vim backup files
+*~
+
+# GNU Global files
+GPATH
+GRTAGS
+GSYMS
+GTAGS
+
+# GNU idutils db
+ID
+
+
+# Eclipse, IDE stuff
+.project
+.cproject
+.settings
+.classpath
+.pydevproject
+.idea
+.ropeproject
+.pytest_cache
+.vscode
+
+# QtCreator IDE
+*.config
+*.creator
+*.files
+*.includes
+*.user
+*.autosave
+
+
+# Git files
+tags
+**.orig
+**.rej
+**.log
+
+# General file patterns
+**.gcov
+**.py[eco]
+**.swp
+cppcheck-results.xml
+testresults
+*.class
+test.info
+tags
+
+# Properties files
+*.properties
+
+
+*/**/.vagrant
+*.ova
+
