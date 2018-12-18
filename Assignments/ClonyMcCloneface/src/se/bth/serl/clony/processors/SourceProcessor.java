@@ -29,6 +29,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 import se.bth.serl.clony.chunks.BaseChunkCollection;
+import se.bth.serl.clony.chunks.Chunk;
 
 /**
  * 
@@ -43,14 +44,14 @@ public class SourceProcessor {
 	private int totalFilesToProcess;
 	private int currentFilesProcessed;
 	private int totalLinesProcessed;
-	
+
 	public SourceProcessor(Path rootFolder, int chunkSize, BaseChunkCollection chunkCollection) {
 		this.chunkSize = chunkSize > 0 ? chunkSize : DEFAULT_CHUNKSIZE;
 		this.chunkCollection = chunkCollection;
 		this.totalFilesToProcess = 0;
 		this.currentFilesProcessed = 0;
 		this.totalLinesProcessed = 0;
-		
+
 		try {
 			this.listOfJavaFiles = Files.walk(rootFolder, Integer.MAX_VALUE).filter(Files::isRegularFile).filter(p -> p.toString().endsWith(".java")).collect(Collectors.toList());
 			this.totalFilesToProcess = listOfJavaFiles.size();
@@ -59,31 +60,40 @@ public class SourceProcessor {
 			e.printStackTrace();
 		}
 	}
-	
+
 	public BaseChunkCollection populateChunkCollection() {
 		if(chunkCollection.isEmpty() && totalFilesToProcess > 0) {				
 			for(Path p : listOfJavaFiles) {
 				SourceReader sr = new SourceReader(p);
 				List<SourceLine> sourceLines = sr.getOnlySourceWithContent();
 				int numLines = sourceLines.size();
-				
 				// TODO iterate over the sourceLines, create chunks and add them to the chunkCollection
-					
+				//ennc0d3
+				int numChunks = (numLines - this.chunkSize ) +1;
+				for (int i = 0; i < numChunks; i++) {
+					String content = new String();
+					for ( SourceLine l : sourceLines.subList(i, i+this.chunkSize)) {
+						content += l.getContent();
+					}
+					Chunk chunk = new Chunk(p.getFileName().toString(), content.toString(), i, (i + this.chunkSize ) -1);
+					this.chunkCollection.addChunk(chunk);
+				}
+				//ennc0d3
 				totalLinesProcessed += sourceLines.size();
 				currentFilesProcessed++;
-				
+
 				if(currentFilesProcessed%100 == 0) 
 					System.out.println("Files processed: " + currentFilesProcessed + "/" + totalFilesToProcess);
 			}
 		}
-		
+
 		return chunkCollection;
 	}
-	
+
 	public int totalFilesProcessed() {
 		return totalFilesToProcess;
 	}
-	
+
 	public int totalLinesProcessed() {
 		return totalLinesProcessed;
 	}

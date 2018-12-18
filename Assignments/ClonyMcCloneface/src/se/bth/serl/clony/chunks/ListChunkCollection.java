@@ -34,15 +34,29 @@ import java.util.SortedSet;
  */
 public class ListChunkCollection extends BaseChunkCollection {
 	private List<Chunk> chunks;
-	
+
 	public ListChunkCollection() {
 		chunks = new ArrayList<>();
 	}
-	
+
 	@Override
 	public void addChunk(Chunk c) {
 		c.setIndex(chunks.size());
 		chunks.add(c);
+	}
+
+	//ennc0d3
+	@Override
+	protected int expand(List<Chunk> a, List<Chunk> b) {
+		int expansion = 0;
+		for ( int i = 0; i < a.size(); i++) {
+			if ( a.get(i).getChunkContent().equals(b.get(i).getChunkContent()) ){
+				expansion += 1;
+			} else {
+				break;
+			}
+		}
+		return expansion;
 	}
 
 	/**
@@ -52,17 +66,15 @@ public class ListChunkCollection extends BaseChunkCollection {
 	public SortedSet<Clone> getClones() {
 		if(clones.isEmpty()) {
 			int numChunks = chunks.size();
-						
- 			for(int i = 0; i < numChunks; i++) {
- 				List<LinkedList<Chunk>> listOfInstances = new ArrayList<>();
+
+			for(int i = 0; i < numChunks; i++) {
+				List<LinkedList<Chunk>> listOfInstances = new ArrayList<>();
 				Chunk a = chunks.get(i);
 				int maxExpansion = 0;
 				for(int j = i + 1; j < numChunks; j++) {
 					Chunk b = chunks.get(j);
-					
 					if(a.getChunkContent().equals(b.getChunkContent())) {
 						int expansion = expand(chunks.subList(i + 1, j), chunks.subList(j + 1, chunks.size()));
-						
 						if(listOfInstances.size() == 0) { //Add the first instance only once
 							LinkedList<Chunk> instance = new LinkedList<>();
 							int start = i;
@@ -71,28 +83,28 @@ public class ListChunkCollection extends BaseChunkCollection {
 								instance.add(chunks.get(k));
 							listOfInstances.add(instance);
 						}
-						
+
 						LinkedList<Chunk> instance = new LinkedList<>();
 						int start = j;
 						int end = expansion > 0 ? j + expansion : start;
 						for(int k = j; k <= end; k++) 
 							instance.add(chunks.get(k));
 						listOfInstances.add(instance);
-							
+
 						if(expansion > maxExpansion)
 							maxExpansion = expansion;
 					}
 				}
-				
+
 				if(listOfInstances.size() > 0)
 					clones.add(new Clone(listOfInstances));
-							
+
 				i = i + maxExpansion;
-				
+
 				System.out.println("Chunks processed: " + (i + 1) + "/" + numChunks);
 			}
 		}
-		
+
 		return clones;
 	}
 
