@@ -1,0 +1,836 @@
+Root folder: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop
+Total files/lines scanned: 1990/278124
+Clones of size 20 or larger found: 161
+Largest clone: 258
+
+###Clone size: 258###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/io/FileBench.java | 346-603
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/GenericMRLoadGenerator.java | 428-685
+
+###Clone size: 130###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/hdfs/org/apache/hadoop/hdfs/server/namenode/FSPermissionChecker.java | 73-202
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/hdfs/org/apache/hadoop/hdfs/server/namenode/PermissionChecker.java | 68-198
+
+###Clone size: 106###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/gridmix/src/java/org/apache/hadoop/mapred/gridmix/CombineFileSplit.java | 91-196
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/mapred/org/apache/hadoop/mapred/lib/CombineFileSplit.java | 100-205
+
+###Clone size: 94###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/core/org/apache/hadoop/io/compress/bzip2/CBZip2OutputStream.java | 224-317
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/core/org/apache/hadoop/io/compress/bzip2/CBZip2OutputStream.java | 374-465
+
+###Clone size: 86###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestTaskFail.java | 116-201
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestTaskTrackerLogIndex.java | 142-227
+
+###Clone size: 72###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestChildsKillingOfSuspendTask.java | 90-161
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestChildsKillingOfSuspendTask.java | 177-249
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskChildsKilling.java | 95-124
+
+###Clone size: 67###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 1676-1742
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2067-2133
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2308-2374
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2549-2615
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3120-3159
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4613-4653
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4854-4893
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5916-5955
+
+###Clone size: 67###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2067-2133
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2308-2374
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2549-2615
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3120-3159
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4613-4653
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4854-4893
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5916-5955
+
+###Clone size: 67###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2308-2374
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2549-2615
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3120-3159
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4613-4653
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4854-4893
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5916-5955
+
+###Clone size: 66###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2822-2887
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3360-3425
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3628-3693
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3899-3964
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4137-4202
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4375-4440
+
+###Clone size: 66###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3360-3425
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3628-3693
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3899-3964
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4137-4202
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4375-4440
+
+###Clone size: 66###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3628-3693
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3899-3964
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4137-4202
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4375-4440
+
+###Clone size: 66###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3899-3964
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4137-4202
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4375-4440
+
+###Clone size: 66###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4137-4202
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4375-4440
+
+###Clone size: 60###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/mapred/org/apache/hadoop/mapred/TextOutputFormat.java | 41-100
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/mapred/org/apache/hadoop/mapreduce/lib/output/TextOutputFormat.java | 43-102
+
+###Clone size: 59###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestMapredGroupMappingServiceRefresh.java | 160-218
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestRefreshUserMappings.java | 135-193
+
+###Clone size: 54###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/fairscheduler/src/test/org/apache/hadoop/mapred/TestFairScheduler.java | 1206-1259
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/fairscheduler/src/test/org/apache/hadoop/mapred/TestFairScheduler.java | 1282-1335
+
+###Clone size: 52###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoSuccessfulFailedJobs.java | 346-397
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoTTProcess.java | 157-198
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoTTProcess.java | 328-369
+
+###Clone size: 51###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/index/src/test/org/apache/hadoop/contrib/index/mapred/TestDistributionPolicy.java | 99-149
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/index/src/test/org/apache/hadoop/contrib/index/mapred/TestIndexUpdater.java | 95-145
+
+###Clone size: 51###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoTTProcess.java | 105-155
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoTTProcess.java | 261-311
+
+###Clone size: 50###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestTaskFail.java | 44-93
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestTaskTrackerLogIndex.java | 67-117
+
+###Clone size: 50###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/jobcontrol/TestJobControl.java | 54-103
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/jobcontrol/TestLocalJobControl.java | 67-116
+
+###Clone size: 50###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestDistributedCacheModifiedFile.java | 170-219
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestDistributedCacheUnModifiedFile.java | 162-211
+
+###Clone size: 49###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 1569-1617
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2201-2249
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2442-2490
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4030-4078
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4268-4316
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4506-4554
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4747-4795
+
+###Clone size: 49###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2201-2249
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2442-2490
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4030-4078
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4268-4316
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4506-4554
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4747-4795
+
+###Clone size: 49###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2442-2490
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4030-4078
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4268-4316
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4506-4554
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4747-4795
+
+###Clone size: 49###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4030-4078
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4268-4316
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4506-4554
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4747-4795
+
+###Clone size: 49###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4268-4316
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4506-4554
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4747-4795
+
+###Clone size: 49###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4506-4554
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4747-4795
+
+###Clone size: 49###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5136-5184
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5407-5455
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5644-5692
+
+###Clone size: 49###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5407-5455
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5644-5692
+
+###Clone size: 48###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/MalformedInputException.java | 47-94
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftIOException.java | 47-94
+
+###Clone size: 47###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamReduceNone.java | 69-115
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingKeyValue.java | 73-119
+
+###Clone size: 46###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/core/org/apache/hadoop/net/SocksSocketFactory.java | 63-108
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/core/org/apache/hadoop/net/StandardSocketFactory.java | 59-104
+
+###Clone size: 45###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamAggregate.java | 71-115
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingSeparator.java | 86-130
+
+###Clone size: 44###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoSuccessfulFailedJobs.java | 346-389
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoTTProcess.java | 328-369
+
+###Clone size: 43###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/java/org/apache/hadoop/streaming/StreamUtil.java | 281-323
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/UtilsForTests.java | 136-178
+
+###Clone size: 43###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/core/org/apache/hadoop/record/compiler/generated/ParseException.java | 166-208
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/core/org/apache/hadoop/record/compiler/generated/TokenMgrError.java | 59-101
+
+###Clone size: 43###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter.java | 507-549
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter.java | 567-609
+
+###Clone size: 43###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestDistributedCacheModifiedFile.java | 242-284
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestDistributedCacheUnModifiedFile.java | 232-274
+
+###Clone size: 43###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoSuccessfulFailedJobs.java | 279-321
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoTTProcess.java | 274-316
+
+###Clone size: 42###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/fairscheduler/src/test/org/apache/hadoop/mapred/TestFairScheduler.java | 1811-1852
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/fairscheduler/src/test/org/apache/hadoop/mapred/TestFairScheduler.java | 2160-2201
+
+###Clone size: 42###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/fairscheduler/src/test/org/apache/hadoop/mapred/TestFairScheduler.java | 2224-2265
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/fairscheduler/src/test/org/apache/hadoop/mapred/TestFairScheduler.java | 2278-2319
+
+###Clone size: 42###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4854-4895
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5916-5957
+
+###Clone size: 42###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/hdfs/TestFileAppend4.java | 625-666
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/hdfs/TestFileAppend4.java | 695-736
+
+###Clone size: 42###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestChildsKillingOfMemoryExceedsTask.java | 129-170
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskChildsKilling.java | 115-157
+
+###Clone size: 42###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoSuccessfulFailedJobs.java | 156-197
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoSuccessfulFailedJobs.java | 349-397
+
+###Clone size: 41###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestMapredGroupMappingServiceRefresh.java | 227-267
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestRefreshUserMappings.java | 203-246
+
+###Clone size: 40###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/FileStatus.java | 150-189
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5260-5299
+
+###Clone size: 40###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2549-2588
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3120-3159
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4613-4653
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4854-4893
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5916-5955
+
+###Clone size: 40###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3120-3159
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4613-4652
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4854-4893
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5916-5955
+
+###Clone size: 40###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4613-4652
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4854-4893
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5916-5955
+
+###Clone size: 40###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/mapred/org/apache/hadoop/mapred/FileInputFormat.java | 341-380
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/mapred/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java | 376-415
+
+###Clone size: 40###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestMiniMRChildTask.java | 52-91
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestMiniMRTaskTempDir.java | 41-80
+
+###Clone size: 39###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/hdfs/TestDFSRollback.java | 45-83
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/hdfs/TestDFSUpgrade.java | 46-86
+
+###Clone size: 39###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskChildsKilling.java | 210-248
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskChildsKilling.java | 417-455
+
+###Clone size: 38###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestMultipleCachefiles.java | 62-99
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestSymLink.java | 59-96
+
+###Clone size: 38###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/core/org/apache/hadoop/io/compress/bzip2/CBZip2InputStream.java | 587-624
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/core/org/apache/hadoop/io/compress/bzip2/CBZip2InputStream.java | 670-707
+
+###Clone size: 38###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/examples/org/apache/hadoop/examples/RandomWriter.java | 109-146
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/UtilsForTests.java | 561-594
+
+###Clone size: 38###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/io/file/tfile/TestTFileUnsortedByteArrays.java | 105-142
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/io/file/tfile/TestTFileUnsortedByteArrays.java | 146-183
+
+###Clone size: 37###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/hdfs/TestDFSClientRetries.java | 77-113
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/hdfs/server/datanode/TestInterDatanodeProtocol.java | 62-98
+
+###Clone size: 37###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestTextOutputFormat.java | 50-86
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestTextOutputFormat.java | 103-139
+
+###Clone size: 37###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestDoAsEffectiveUser.java | 237-273
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestDoAsEffectiveUser.java | 278-314
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestDoAsEffectiveUser.java | 318-354
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestDoAsEffectiveUser.java | 360-401
+
+###Clone size: 37###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestDoAsEffectiveUser.java | 278-314
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestDoAsEffectiveUser.java | 318-354
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestDoAsEffectiveUser.java | 360-401
+
+###Clone size: 37###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestDoAsEffectiveUser.java | 318-354
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestDoAsEffectiveUser.java | 360-401
+
+###Clone size: 37###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestChildsKillingOfMemoryExceedsTask.java | 98-134
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestChildsKillingOfMemoryExceedsTask.java | 216-252
+
+###Clone size: 36###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/java/org/apache/hadoop/streaming/StreamUtil.java | 328-363
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/UtilsForTests.java | 183-218
+
+###Clone size: 36###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestJobTrackerRestart.java | 499-534
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestJobTrackerRestartWithLostTracker.java | 122-153
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestLostTracker.java | 125-154
+
+###Clone size: 36###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestChildsKillingOfMemoryExceedsTask.java | 137-172
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskChildsKilling.java | 441-479
+
+###Clone size: 35###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TrApp.java | 55-89
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TrAppReduce.java | 54-88
+
+###Clone size: 35###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/tools/org/apache/hadoop/tools/rumen/JobConfigurationParser.java | 84-118
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/tools/org/apache/hadoop/tools/rumen/ParsedConfigFile.java | 111-145
+
+###Clone size: 33###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/hdfs/org/apache/hadoop/hdfs/tools/DFSAdmin.java | 957-989
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/mapred/org/apache/hadoop/mapred/tools/MRAdmin.java | 316-349
+
+###Clone size: 33###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoSuccessfulFailedJobs.java | 261-293
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoSuccessfulFailedJobs.java | 473-505
+
+###Clone size: 32###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/fairscheduler/src/test/org/apache/hadoop/mapred/TestFairScheduler.java | 726-757
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/fairscheduler/src/test/org/apache/hadoop/mapred/TestFairScheduler.java | 787-818
+
+###Clone size: 32###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/fairscheduler/src/test/org/apache/hadoop/mapred/TestFairScheduler.java | 893-924
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/fairscheduler/src/test/org/apache/hadoop/mapred/TestFairScheduler.java | 1002-1033
+
+###Clone size: 32###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestJobTrackerRestart.java | 499-530
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestJobTrackerRestartWithLostTracker.java | 122-153
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestJobTrackerSafeMode.java | 224-255
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestLostTracker.java | 125-154
+
+###Clone size: 32###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestJobTrackerRestart.java | 499-530
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestLostTracker.java | 125-154
+
+###Clone size: 32###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestDistributedCacheAlternateFileSystem.java | 78-109
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestDoAsEffectiveUser.java | 67-98
+
+###Clone size: 32###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestDistributedCacheModifiedFile.java | 184-215
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestDistributedCachePrivateFile.java | 156-186
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestDistributedCacheUnModifiedFile.java | 176-207
+
+###Clone size: 31###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/benchmarks/gridmix2/src/java/org/apache/hadoop/mapred/CombinerJobCreator.java | 32-62
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/WordCount.java | 61-94
+
+###Clone size: 31###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/NewDriverWizard.java | 66-96
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/NewReducerWizard.java | 157-180
+
+###Clone size: 31###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/system/org/apache/hadoop/mapred/TestStreamingJobProcessTree.java | 109-139
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/system/org/apache/hadoop/mapred/TestStreamingJobProcessTree.java | 186-214
+
+###Clone size: 31###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/BlockLocation.java | 89-119
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5777-5807
+
+###Clone size: 31###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 1337-1367
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 1495-1525
+
+###Clone size: 31###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2706-2736
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2990-3020
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3262-3284
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3514-3536
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3782-3804
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4039-4061
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4277-4299
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4515-4537
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4756-4778
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5027-5049
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5145-5167
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5278-5300
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5416-5438
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5535-5557
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5653-5675
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5786-5808
+
+###Clone size: 31###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3514-3544
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3782-3812
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4039-4068
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4277-4306
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4515-4544
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4756-4785
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5027-5057
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5145-5167
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5278-5308
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5416-5438
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5535-5565
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5653-5675
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5786-5816
+
+###Clone size: 31###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4384-4414
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4622-4652
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4863-4893
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5925-5955
+
+###Clone size: 31###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/hdfs/org/apache/hadoop/hdfs/server/namenode/FSNamesystem.java | 5640-5670
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/mapred/org/apache/hadoop/mapred/JobTracker.java | 5223-5253
+
+###Clone size: 31###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestTaskLogsTruncater.java | 496-526
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestTaskLogsTruncater.java | 564-594
+
+###Clone size: 31###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestChildsKillingOfMemoryExceedsTask.java | 140-170
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestChildsKillingOfSuspendTask.java | 211-242
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskChildsKilling.java | 126-157
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskChildsKilling.java | 444-475
+
+###Clone size: 31###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoSuccessfulFailedJobs.java | 355-385
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoSuccessfulFailedJobs.java | 538-568
+
+###Clone size: 30###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/fairscheduler/src/test/org/apache/hadoop/mapred/TestFairScheduler.java | 851-880
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/fairscheduler/src/test/org/apache/hadoop/mapred/TestFairScheduler.java | 959-989
+
+###Clone size: 30###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 1889-1918
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2210-2239
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2451-2480
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2706-2728
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2990-3012
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3262-3284
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3514-3544
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3782-3812
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4039-4068
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4277-4306
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4515-4544
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4756-4785
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5027-5064
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5145-5167
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5278-5308
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5416-5438
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5535-5566
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5653-5675
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5786-5816
+
+###Clone size: 30###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3782-3811
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4039-4068
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4277-4306
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4515-4544
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4756-4785
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5027-5057
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5145-5167
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5278-5308
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5416-5438
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5535-5565
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5653-5675
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5786-5816
+
+###Clone size: 30###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4756-4785
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5027-5056
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5145-5167
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5278-5307
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5416-5438
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5535-5564
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5653-5675
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5786-5815
+
+###Clone size: 30###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/http/TestGlobalFilter.java | 73-102
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/http/TestServletFilter.java | 71-100
+
+###Clone size: 30###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestChildsKillingOfSuspendTask.java | 177-206
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskChildsKilling.java | 95-124
+
+###Clone size: 30###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/tools/org/apache/hadoop/tools/rumen/LoggedJob.java | 390-419
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/tools/org/apache/hadoop/tools/rumen/LoggedTaskAttempt.java | 388-417
+
+###Clone size: 29###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/hdfsproxy/src/test/org/apache/hadoop/hdfsproxy/TestHdfsProxy.java | 69-97
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/fs/TestCopyFiles.java | 78-104
+
+###Clone size: 29###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/hdfs/org/apache/hadoop/hdfs/server/namenode/CancelDelegationTokenServlet.java | 42-70
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/hdfs/org/apache/hadoop/hdfs/server/namenode/RenewDelegationTokenServlet.java | 42-70
+
+###Clone size: 29###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/mapred/org/apache/hadoop/mapred/LineRecordReader.java | 68-96
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/mapred/org/apache/hadoop/mapreduce/lib/input/LineRecordReader.java | 57-85
+
+###Clone size: 29###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestMapRed.java | 665-693
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/record/TestRecordMR.java | 419-447
+
+###Clone size: 29###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestDistributedCacheModifiedFile.java | 19-47
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestDistributedCacheUnModifiedFile.java | 19-47
+
+###Clone size: 29###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskChildsKilling.java | 324-352
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskChildsKilling.java | 427-455
+
+###Clone size: 28###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/core/org/apache/hadoop/io/compress/zlib/ZlibCompressor.java | 154-181
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/core/org/apache/hadoop/io/compress/zlib/ZlibDecompressor.java | 75-102
+
+###Clone size: 28###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/fs/DFSCIOTest.java | 127-154
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/fs/TestDFSIO.java | 127-154
+
+###Clone size: 28###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/lib/TestCombineFileInputFormat.java | 169-196
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/lib/TestCombineFileInputFormat.java | 212-239
+
+###Clone size: 27###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 1744-1770
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2135-2161
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2376-2402
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2617-2643
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4681-4707
+
+###Clone size: 27###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2135-2161
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2376-2402
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2617-2643
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4681-4707
+
+###Clone size: 27###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2376-2402
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2617-2643
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4681-4707
+
+###Clone size: 27###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2617-2643
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4681-4707
+
+###Clone size: 27###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4904-4930
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5966-5992
+
+###Clone size: 27###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5647-5673
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5928-5954
+
+###Clone size: 27###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/examples/org/apache/hadoop/examples/SleepJob.java | 209-235
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapreduce/TestSleepJob.java | 237-263
+
+###Clone size: 27###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/io/TestWritable.java | 35-61
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/io/TestWritableName.java | 37-63
+
+###Clone size: 27###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/io/file/tfile/TestTFileSeek.java | 263-289
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/io/file/tfile/TestTFileSeqFileComparison.java | 530-556
+
+###Clone size: 27###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/util/TestQueueProcessingStatistics.java | 313-339
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/util/TestQueueProcessingStatistics.java | 354-380
+
+###Clone size: 26###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/capacity-scheduler/src/java/org/apache/hadoop/mapred/CapacityTaskScheduler.java | 751-776
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/mapred/org/apache/hadoop/mapred/JobTracker.java | 5084-5109
+
+###Clone size: 26###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/system/org/apache/hadoop/mapred/TestLinuxTaskControllerOtherUserStreamingJob.java | 130-155
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/system/org/apache/hadoop/mapred/TestTaskKillingOfStreamingJob.java | 234-258
+
+###Clone size: 26###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/core/org/apache/hadoop/io/compress/bzip2/CBZip2OutputStream.java | 321-346
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/core/org/apache/hadoop/io/compress/bzip2/CBZip2OutputStream.java | 470-493
+
+###Clone size: 26###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/io/file/tfile/TestTFileSeek.java | 369-394
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/io/file/tfile/TestTFileSeqFileComparison.java | 636-661
+
+###Clone size: 26###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/io/file/tfile/TestTFileSeek.java | 434-459
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/io/file/tfile/TestTFileSeqFileComparison.java | 703-728
+
+###Clone size: 26###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestJobSysDirWithDFS.java | 60-85
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestMiniMRWithDFS.java | 71-96
+
+###Clone size: 26###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestDoAsEffectiveUser.java | 188-213
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestDoAsEffectiveUser.java | 235-260
+
+###Clone size: 25###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamAggregate.java | 69-93
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamDataProtocol.java | 77-101
+
+###Clone size: 25###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2591-2615
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4655-4679
+
+###Clone size: 25###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2889-2913
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3427-3451
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3695-3719
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3966-3990
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4204-4228
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4442-4466
+
+###Clone size: 25###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3427-3451
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3695-3719
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3966-3990
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4204-4228
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4442-4466
+
+###Clone size: 25###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3695-3719
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3966-3990
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4204-4228
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4442-4466
+
+###Clone size: 25###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3966-3990
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4204-4228
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4442-4466
+
+###Clone size: 25###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4204-4228
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4442-4466
+
+###Clone size: 25###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/fs/DFSCIOTest.java | 169-193
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/fs/TestDFSIO.java | 169-193
+
+###Clone size: 25###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestChildsKillingOfMemoryExceedsTask.java | 148-172
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestChildsKillingOfMemoryExceedsTask.java | 267-292
+
+###Clone size: 25###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestChildsKillingOfMemoryExceedsTask.java | 315-339
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestLostTaskTracker.java | 234-258
+
+###Clone size: 25###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoSuccessfulFailedJobs.java | 200-224
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoTTProcess.java | 204-228
+
+###Clone size: 24###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingKeyValue.java | 96-119
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingSeparator.java | 107-130
+
+###Clone size: 24###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3162-3185
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3402-3425
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3670-3693
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3941-3964
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4179-4202
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4417-4440
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4656-4679
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4907-4930
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5969-5992
+
+###Clone size: 24###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4417-4440
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4656-4679
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4907-4930
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5969-5992
+
+###Clone size: 24###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4656-4679
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4907-4930
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5969-5992
+
+###Clone size: 24###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/mapred/org/apache/hadoop/mapred/JobTrackerMetricsSource.java | 45-68
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/mapred/org/apache/hadoop/mapred/QueueMetrics.java | 43-66
+
+###Clone size: 24###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestKeyValueTextInputFormat.java | 108-131
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestTextInputFormat.java | 105-128
+
+###Clone size: 23###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/MalformedInputException.java | 56-78
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/Pathname.java | 56-78
+
+###Clone size: 23###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 2990-3012
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3262-3284
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3514-3536
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3782-3804
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4039-4061
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4277-4299
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4515-4537
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4756-4778
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5027-5049
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5145-5167
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5278-5300
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5416-5438
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5535-5557
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5653-5675
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5786-5808
+
+###Clone size: 23###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3262-3284
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3514-3536
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 3782-3804
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4039-4061
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4277-4299
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4515-4537
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 4756-4778
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5027-5049
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5145-5167
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5278-5300
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5416-5438
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5535-5557
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5653-5675
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5786-5808
+
+###Clone size: 23###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5027-5049
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5145-5167
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5278-5308
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5416-5438
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5535-5566
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5653-5675
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5786-5816
+
+###Clone size: 23###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5278-5300
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5416-5438
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5535-5565
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5653-5675
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5786-5816
+
+###Clone size: 23###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5535-5557
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5653-5675
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5786-5816
+
+###Clone size: 23###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5653-5675
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/thriftfs/gen-java/org/apache/hadoop/thriftfs/api/ThriftHadoopFileSystem.java | 5786-5808
+
+###Clone size: 23###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/mapred/org/apache/hadoop/mapred/FileInputFormat.java | 177-199
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/mapred/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java | 215-237
+
+###Clone size: 23###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestDoAsEffectiveUser.java | 162-184
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestDoAsEffectiveUser.java | 205-230
+
+###Clone size: 23###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestDistributedCacheModifiedFile.java | 25-47
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestDistributedCachePrivateFile.java | 24-46
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestDistributedCacheUnModifiedFile.java | 25-47
+
+###Clone size: 23###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoSuccessfulFailedJobs.java | 176-198
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoTTProcess.java | 180-202
+
+###Clone size: 22###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamAggregate.java | 94-115
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamDataProtocol.java | 103-124
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamReduceNone.java | 94-115
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingKeyValue.java | 98-119
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingSeparator.java | 109-130
+
+###Clone size: 22###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/core/org/apache/hadoop/fs/FileUtil.java | 481-502
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/core/org/apache/hadoop/util/RunJar.java | 45-66
+
+###Clone size: 22###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/core/org/apache/hadoop/metrics/spi/Util.java | 51-72
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/core/org/apache/hadoop/metrics2/util/Servers.java | 47-68
+
+###Clone size: 22###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/ipc/MiniRPCBenchmark.java | 378-399
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestDistributedCacheAlternateFileSystem.java | 84-105
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestDoAsEffectiveUser.java | 73-94
+
+###Clone size: 22###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskKilling.java | 249-270
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskTrackerInfoSuccessfulFailedJobs.java | 598-620
+
+###Clone size: 21###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/ReliabilityTest.java | 294-314
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/ReliabilityTest.java | 428-447
+
+###Clone size: 21###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestFileOutputCommitter.java | 54-74
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestTextOutputFormat.java | 62-84
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/mapred/TestTextOutputFormat.java | 115-137
+
+###Clone size: 20###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/hdfs/security/TestDelegationTokenForProxyUser.java | 80-99
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestDistributedCacheAlternateFileSystem.java | 86-105
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/org/apache/hadoop/security/TestDoAsEffectiveUser.java | 75-94
+
+###Clone size: 20###
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestChildsKillingOfMemoryExceedsTask.java | 153-172
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestChildsKillingOfMemoryExceedsTask.java | 272-292
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskChildsKilling.java | 353-374
+File: /home/enaggan/CloudBD-PA2542-Naga/vagrant/data/QualitasCorpus/QualitasCorpus-20130901r/Systems/hadoop/hadoop-1.0.0/src/hadoop-1.0.0/src/test/system/java/org/apache/hadoop/mapred/TestTaskChildsKilling.java | 457-479
+

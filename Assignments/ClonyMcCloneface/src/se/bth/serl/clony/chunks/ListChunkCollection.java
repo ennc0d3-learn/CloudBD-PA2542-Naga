@@ -49,7 +49,8 @@ public class ListChunkCollection extends BaseChunkCollection {
 	@Override
 	protected int expand(List<Chunk> a, List<Chunk> b) {
 		int expansion = 0;
-		for ( int i = 0; i < a.size(); i++) {
+		int end = b.size();
+		for ( int i = 0; i < end; i++) {
 			if ( a.get(i).getChunkContent().equals(b.get(i).getChunkContent()) ){
 				expansion += 1;
 			} else {
@@ -79,16 +80,18 @@ public class ListChunkCollection extends BaseChunkCollection {
 							LinkedList<Chunk> instance = new LinkedList<>();
 							int start = i;
 							int end = expansion > 0 ? i + expansion : start;
-							for(int k = i; k <= end; k++)
+							for(int k = i; k <= end; k++) {
 								instance.add(chunks.get(k));
+							}
 							listOfInstances.add(instance);
 						}
 
 						LinkedList<Chunk> instance = new LinkedList<>();
 						int start = j;
 						int end = expansion > 0 ? j + expansion : start;
-						for(int k = j; k <= end; k++) 
+						for(int k = j; k <= end; k++) {
 							instance.add(chunks.get(k));
+						}
 						listOfInstances.add(instance);
 
 						if(expansion > maxExpansion)
@@ -96,12 +99,13 @@ public class ListChunkCollection extends BaseChunkCollection {
 					}
 				}
 
-				if(listOfInstances.size() > 0)
+				if(listOfInstances.size() > 0) {
 					clones.add(new Clone(listOfInstances));
+				}
 
 				i = i + maxExpansion;
 
-				System.out.println("Chunks processed: " + (i + 1) + "/" + numChunks);
+				System.out.println("Chunks processed: " + (i + 1) +  "/" + numChunks);
 			}
 		}
 

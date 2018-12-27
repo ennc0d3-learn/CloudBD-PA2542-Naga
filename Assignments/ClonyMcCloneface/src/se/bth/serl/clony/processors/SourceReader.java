@@ -24,6 +24,9 @@ package se.bth.serl.clony.processors;
 
 import java.io.File;
 import java.io.IOException;
+import java.nio.charset.Charset;
+import java.nio.charset.MalformedInputException;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
@@ -43,25 +46,25 @@ public class SourceReader {
 	private static final Pattern oneLineMultiLineComment = Pattern.compile("/\\*.*?\\*/");
 	private static final Pattern openMultiLineComment = Pattern.compile("/\\*+[^*/]*$");
 	private static final Pattern closeMultiLineComment = Pattern.compile("^[^*/]*\\*+/");
-	
+
 	public SourceReader(Path path) {
 		this(readFileContent(path.toFile()));
 	}
-	
+
 	public SourceReader(File file) {
 		this(readFileContent(file));
 	}
-		
+
 	public SourceReader(List<String> lines) {
 		fileContent = new ArrayList<>();
-		
+
 		if(lines != null) {
 			boolean inMultiLineComment = false;
 			for(int i = 0; i < lines.size(); i++) {
 				String line = lines.get(i);
-				
+
 				Matcher m;
-				
+
 				if(inMultiLineComment) {
 					m = closeMultiLineComment.matcher(line);
 					if(m.find()) {
@@ -73,48 +76,59 @@ public class SourceReader {
 						continue;
 					}
 				}
-				
+
 				m = oneLineComment.matcher(line);
 				line = m.replaceAll("");
-				
+
 				m = oneLineMultiLineComment.matcher(line);
 				line = m.replaceAll("");
-				
+
 				m = openMultiLineComment.matcher(line);
 				if(m.find()) {
 					line = m.replaceAll("");
 					inMultiLineComment = true;
 				}
-			
+
 				m = emptyLine.matcher(line);
 				line = m.replaceAll("");
-				
+
 				fileContent.add(new SourceLine(i + 1, line.trim()));
 			}
 		}
 	}
-	
+
 	public List<SourceLine> getOnlySourceWithContent() {
 		return fileContent.stream().filter(p -> p.hasContent()).collect(Collectors.toList());
 	}
-	
+
 	private static List<String> readFileContent(File file) {
-		List<String> lines = null; 
-		
-		try {
-			lines = Files.readAllLines(file.toPath());
+
+		Charset []encodings = { StandardCharsets.UTF_8,
+				StandardCharsets.ISO_8859_1,
+				StandardCharsets.US_ASCII
+		};
+
+		List<String> lines = null;
+		for (Charset encoding : encodings) {
+			try {
+				lines = Files.readAllLines(file.toPath(), encoding);
+				break;
+			}
+			catch(MalformedInputException e) {
+				continue;
+			}
+			catch(IOException e) {
+				e.printStackTrace();
+				System.err.println("Could not read file: " + file.getAbsoluteFile());
+				/* TODO Files in the Qualitas corpus are encoded in different
+				 * formats (ASCII, UTF-8, ISO-8859). Either convert the input data beforehand or adapt this code here
+				 * so that all files are correctly read.
+				 */
+			}
+
 		}
-		catch(IOException e) {
-			e.printStackTrace();
-			System.err.println("Could not read file: " + file.getAbsoluteFile());
-			/* TODO Files in the Qualitas corpus are encoded in different 
-			 * formats (ASCII, UTF-8, ISO-8859). Either convert the input data beforehand or adapt this code here
-			 * so that all files are correctly read. 
-			*/
-		}
-		
 		return lines;
 	}
-	
+
 
 }

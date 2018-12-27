@@ -72,10 +72,15 @@ public class SourceProcessor {
 				int numChunks = (numLines - this.chunkSize ) +1;
 				for (int i = 0; i < numChunks; i++) {
 					String content = new String();
-					for ( SourceLine l : sourceLines.subList(i, i+this.chunkSize)) {
-						content += l.getContent();
+					List<SourceLine> chunkLines = sourceLines.subList(i, i+this.chunkSize);
+					int start = chunkLines.get(0).getLineNumber();
+					int end = chunkLines.get(chunkLines.size()-1).getLineNumber();
+					for ( SourceLine l : chunkLines) {
+						content += ";" +l.getContent();
 					}
-					Chunk chunk = new Chunk(p.getFileName().toString(), content.toString(), i, (i + this.chunkSize ) -1);
+					Chunk chunk = new Chunk(p.toString(), content.toString(),
+							start,
+							end );
 					this.chunkCollection.addChunk(chunk);
 				}
 				//ennc0d3
